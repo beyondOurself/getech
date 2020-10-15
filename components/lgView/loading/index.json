@@ -1,7 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "lg-icon":"../icon",
-    "lg-spin":"../spin"
-  }
-}
